@@ -1,0 +1,6 @@
+Flask==2.2.3
+numpy==1.25.0
+scikit-learn==1.3.0
+pandas==2.1.0
+gunicorn==21.2.0  # If you are deploying on a server
+joblib==1.3.2     # For model saving/loading
